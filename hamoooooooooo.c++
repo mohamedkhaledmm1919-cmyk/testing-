@@ -1,3 +1,4 @@
+print("new project");
 #include <iostream>
 
 int main(){
